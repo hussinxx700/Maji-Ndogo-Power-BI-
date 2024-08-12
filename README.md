@@ -35,13 +35,13 @@ well_pollution: Contains data on pollution tests conducted on wells.
 Below are some screenshots of the Power BI dashboards created for the Maji Ndogo project:
 
 ### Home Dashboard
-![Home Dashboard](https://ibb.co/dW8KVvL)
+![Home Dashboard](./images/HomeDashboard.png)
 
 ### Improvements Dashboard
-![Improvements Dashboard](https://ibb.co/VvzbxxL)
+![Improvements Dashboard](./images/ImprovementsDashboard.png)
 
 ### Cost Analysis Dashboard
-![Cost Analysis Dashboard](https://ibb.co/wrCtCdK)
+![Cost Analysis Dashboard](./images/CostAnalysisDashboard.png)
 
 ## How to Use This Project
 1. **Download the Power BI Reports:**
