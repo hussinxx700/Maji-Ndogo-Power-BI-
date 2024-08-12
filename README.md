@@ -16,15 +16,15 @@ The **"Maji Ndogo"** project focuses on visualizing and analyzing water access c
 - **Data Analysis:** Interpreting visualized data to derive meaningful insights.
 
 ## Dataset
-The dataset used in this project is from the md_water_services database, containing over 60,000 unique records and 43 columns. It includes tables related to water sources, usage statistics, and infrastructure details in the Maji Ndogo region. Key tables include:
+The dataset used in this project is from the **md_water_services** database, containing over 60,000 unique records and 43 columns. It includes tables related to water sources, usage statistics, and infrastructure details in the Maji Ndogo region. Key tables include:
 
-employee: Contains details of employees involved in the water survey.
-global_water_access: Provides data on water access across different regions.
-location: Details of locations where water sources are situated.
-visits: Records of visits made to various water sources.
-water_quality: Data on the quality of water from different sources.
-water_source: Information on various water sources, including type and number of people served.
-well_pollution: Contains data on pollution tests conducted on wells.
+- **employee**: Contains details of employees involved in the water survey.
+- **global_water_access**: Provides data on water access across different regions.
+- **location**: Details of locations where water sources are situated.
+- **visits**: Records of visits made to various water sources.
+- **water_quality**: Data on the quality of water from different sources.
+- **water_source**: Information on various water sources, including type and number of people served.
+- **well_pollution**: Contains data on pollution tests conducted on wells.
 
 ## Project Structure
 - **Visualizations:** Power BI dashboards and reports that display key findings and insights.
